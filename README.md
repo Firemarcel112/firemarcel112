@@ -9,3 +9,6 @@
 ![PHP](https://img.shields.io/badge/PHP-%238993be%20?style=for-the-badge&logo=PHP&labelColor=grey "Hypertext Preprocessor")
 ![SQL](https://img.shields.io/badge/-MySQL-%2300758f?style=for-the-badge&logo=MySQL&labelColor=grey "Structured Query Language")
 ![Laravel](https://img.shields.io/badge/Laravel-%23f5372d?style=for-the-badge&logo=LARAVEL&labelColor=grey "Laravel")
+
+---
+![Coding Time](https://wakatime.com/share/@018b10cf-b9e7-4f8f-a935-0f7dd69896ec/cf130f5f-9027-46a2-8f4d-964af4ee6e9d.svg)
