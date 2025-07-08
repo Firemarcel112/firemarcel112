@@ -11,4 +11,5 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23f5372d?style=for-the-badge&logo=LARAVEL&labelColor=grey "Laravel")
 
 ---
-![Coding Time](https://wakatime.com/share/@018b10cf-b9e7-4f8f-a935-0f7dd69896ec/cf130f5f-9027-46a2-8f4d-964af4ee6e9d.svg)
+##  Coding Aktivität (Letzte 7 Tage) by ![Wakatime](https://wakatime.com)
+![Coding Time](https://wakatime.com/share/@018b10cf-b9e7-4f8f-a935-0f7dd69896ec/bcc98150-3097-4ee7-9df2-4a3c02add6fd.svg)
